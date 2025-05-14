@@ -9,5 +9,5 @@
 - Scrum Master: Rodolfo Ribeiro
 - Frontend: Caio Souza e Breno
 - Design: Nycolas Justino
-- Backend: Igor Vinícius, William
+- Backend: Igor Vinícius, William, Matheus Rondon 
 - Tester: Gabriel Patrício
